@@ -1,5 +1,5 @@
 ## Thoughts on C Pointers
-- 主要思想参考:https://blog.csdn.net/qq_21583681/article/details/78572009#commentBox
+- 主要思想参考:https://blog.csdn.net/qq_21583681/article/details/78572009
 
 >> static char content[] ="Listen to me say thanks\n";
 
