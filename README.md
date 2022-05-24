@@ -25,4 +25,4 @@
 >>> (10）  cout<<&*content<<endl;//Listen to me say thanks cout特性 &*抵消，因此（2，8，10一样？）
 
 其实感觉&和\*加一起没啥意思，本身指针就是地址，他的用处就是要么得到引用的那个变量的地址(&)或者值(*)
-见：https://github.com/wufei-png/linux_kernel_memory_management/blob/master/src/mtest.c#L96
+见：https://github.com/wufei-png/linux_kernel_memory_management/blob/master/src/mtest.c#L97
